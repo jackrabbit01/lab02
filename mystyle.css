@@ -1,4 +1,8 @@
-
+<html>
+<head>
+  <style> 
+  
+  
 table {
     border-collapse: collapse;
     width: 100%;
@@ -12,6 +16,178 @@ th, td {
 tr:nth-child(even){background-color: grey}
 
 th {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #58e2e2;
+    color: saddlebrown;
 }
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+  </style>
+ 
+
+
+
+</head>
+
+<body>
+  
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="timetable.html">Timetable</a></li>
+  <li><a href="gallery.html">Gallery</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
+  
+<center>
+  <p> <b> <font size="7">  Enroll </font> </b> </p>
+ <table border="1"> 
+
+   <tr> 
+     <th align="center" colspan="6">?????????????????????????? </th>
+
+   </tr>
+
+  <tr> 
+    <td> ????????	</td>
+    <td> ------ ??????????? ------</td>
+    <td>??????????? </td>
+    <td> ????????</td>
+    <td>????? </td>
+    <td> ????</td>
+
+  </tr>
+
+  <tr> 
+    <td>  228202 	</td>
+    <td>  Academic Article and Research Writing</td>
+    <td>GD</td>
+    <td> 3</td>
+    <td>3401 </td>
+    <td> -</td>
+
+  </tr>
+
+  <tr> 
+    <td> 404207 	</td>
+    <td> Creative Activities</td>
+    <td>GD </td>
+    <td> 2</td>
+    <td>3402	 </td>
+    <td> -</td>
+
+  </tr>
+
+    <tr> 
+
+    <td> 886210  	</td>
+    <td> Data Structures and Algorithms</td>
+    <td>GD </td>
+    <td> 3</td>
+    <td>3403	 </td>
+    <td> -</td>
+
+  </tr>
+
+    <tr> 
+    <td>  887230  	</td>
+    <td>  Computer Networks</td>
+    <td>GD </td>
+    <td> 3</td>
+    <td>3401	 </td>
+    <td> -</td>
+
+  </tr> 
+
+     <tr> 
+    <td>  887260   	</td>
+    <td> 	  Human and Computer Interaction</td>
+    <td>GD </td>
+    <td> 3</td>
+    <td> 3401	 	 </td>
+    <td> -</td>
+
+  </tr>
+
+    <tr> 
+    <td>   887371     	</td>
+    <td> 	 Web Programming</td>
+    <td>GD </td>
+    <td> 3</td>
+    <td> 3401	 	 </td>
+    <td> -</td>
+
+  </tr>
+
+
+  
+
+ </table>
+
+
+
+
+</center>
+
+</body>
+
+
+</html>
